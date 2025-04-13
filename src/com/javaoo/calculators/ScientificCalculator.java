@@ -17,6 +17,10 @@ public class ScientificCalculator {
 		holdValue = x;
 	}
 	
+	public final double sqrt(double x) {
+	    return Math.sqrt(x);
+	}
+	
 	public final double getValueFromMemory() {
 		return(holdValue);
 	}
