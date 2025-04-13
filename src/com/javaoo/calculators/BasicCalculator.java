@@ -1,5 +1,7 @@
 package com.javaoo.calculators;
 
+
+//Simple Calculator with 4 basic math operations.
 public class BasicCalculator {
 	
 	public final double add(double x, double y) {
